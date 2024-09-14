@@ -13,3 +13,4 @@ The front-end page provides an interface for users to use and present data. For 
 Back-end is responsible for managing data, executing logic, and send processed data back to the front-end. For back-end development, I used python and Flask framework for development of logic. Used pip3 to manage dependency packs. Used HTTP-Cookies to authorize user's browser.,vue. This project is designed to help teachers manage their students' grades.
 
 I am still working on Mysql database. After it is done, I will deploy it to AWS.
+The code can run smoothly on localhost now.
