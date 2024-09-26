@@ -3,11 +3,10 @@
 
 http://3.94.117.159:5174/#/
 
+Username:admin
+Password admin#1234
 
-username:admin
-password admin#1234
-
-This project is designed to help teachers manage their students' grades in a more efficient way. Teachers can login their teacher account and manage students grade information and the manage teacher account information.
+This project is designed to help teachers manage their students' grades in a more efficient way. Teachers can login with their teacher account and manage students grade information. Both teacher account information and student account information can be add,delete and edit after login.
 
 In this project, I developed three front-end web pages, routers,and back-end APIs.
 There is a login page and after logged in authorized visitors can add, delete, and edit information of teacher's accounts and student account. Users can only login to the system with information from the teacher's account page.
