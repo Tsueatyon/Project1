@@ -1,7 +1,10 @@
 # Project1
 1, Student Grade Management System
+
 http://3.94.117.159:5174/#/
-default username:admin
+
+
+username:admin
 password admin#1234
 
 This project is designed to help teachers manage their students' grades in a more efficient way. Teachers can login their teacher account and manage students grade information and the manage teacher account information.
